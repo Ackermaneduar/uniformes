@@ -1,0 +1,16 @@
+h1.bolivar{
+text-align: center;
+background-color: rgb(238, 191, 38);
+color: rgb(224, 28, 28);
+}
+h1.othon{
+    text-align: center;
+    background-color: rgb(238, 191, 38);
+    color: #1337d8;
+    }
+div.text{
+    padding: 20px; margin: 5px; border: 2px solid black; width: 99%;
+    display: flex;
+    justify-content: center;
+    
+}

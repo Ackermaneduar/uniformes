@@ -1,0 +1,11 @@
+i.letras{
+color: rgb(197, 52, 52);
+}
+div.imgpos{
+    padding: 25px; margin: 10px; border: 2px solid black; float: left; width: 300px;
+    text-align: center;
+}
+div.imgpos2{
+    padding: 40px; margin: 10px; border: 2px solid black; float: right; width: 300px;
+    text-align: center;
+}
